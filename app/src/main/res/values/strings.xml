@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BluetoothCommon</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- 下拉刷新listView -->
+    <string name="pull_to_refresh_pull_label">Pull down to refresh</string>
+    <string name="string_update_time">Last Update：%s</string>
+    <string name="string_refreshing">Scanning Bluetooth…</string>
+    <string name="scan_over">Scan ended</string>
+    <string name="release_to_refresh_pull_label">Release and refresh immediately</string>
+    <string name="loading_error">Click to load</string>
+    <string name="loading_wait">Getting more…</string>
+    <string name="click_for_loading_more">Click to load more</string>
+    <string name="all_has_show">Show all content</string>
+
+    <string name="list_click">Click on the screen to reload</string>
+    <string name="list_empty">No data</string>
+
+    <string name="devices">Device List</string>
+
+    <string name="connecting">Connecting</string>
+</resources>
